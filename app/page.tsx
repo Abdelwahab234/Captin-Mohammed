@@ -16,7 +16,7 @@ export default function Home() {
       <SocialMediaSection />
       <PricingSection />
       <HowToSubscribeSection />
-      <ReviewsSection />
+     
       <FinalCtaSection />
     </main>
   );

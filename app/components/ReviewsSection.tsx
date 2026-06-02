@@ -15,8 +15,8 @@ const reviews = [
     id: 2,
     name: "محمود علي",
     text: "نظام الأكل كان مريح جداً ومحستش بحرمان. المتابعة اليومية هي اللي فرقت معايا بصراحة.",
-    beforeImg: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=2070&auto=format&fit=crop",
-    afterImg: "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?q=80&w=2070&auto=format&fit=crop"
+    beforeImg: "",
+    afterImg: ""
   },
   {
     id: 3,
